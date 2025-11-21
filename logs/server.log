@@ -1,15 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [284] using StatReload
-INFO:     Started server process [286]
+INFO:     Started reloader process [329] using StatReload
+INFO:     Started server process [331]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:49322 - "GET /media?kind=clip HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49338 - "GET /media HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49322 - "GET /media?kind=clip HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49338 - "GET /media HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49350 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:40710 - "GET /media?kind=clip HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40712 - "GET /media HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40710 - "GET /media?kind=clip HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40728 - "GET /media HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55916 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:55932 - "GET /media HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55948 - "GET /media?kind=clip HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55932 - "GET /media HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55948 - "GET /media?kind=clip HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44716 - "GET /media HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44730 - "GET /media?kind=clip HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44716 - "GET /media HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44730 - "GET /media?kind=clip HTTP/1.1" 200 OK
